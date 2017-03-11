@@ -1,0 +1,21 @@
+[11.03.2017 15:44:14]
+Hook started... Timer started
+
+[11.03.2017 15:46:18]
+Mail was not sent! Error code: 3
+
+[11.03.2017 15:46:18]
+<From SendMail> Return code: 16936840
+
+[11.03.2017 15:48:21]
+Mail was not sent! Error code: 3
+
+[11.03.2017 15:50:24]
+Mail was not sent! Error code: 3
+
+[11.03.2017 15:52:27]
+Mail was not sent! Error code: 3
+
+[11.03.2017 15:54:30]
+Mail was not sent! Error code: 3
+

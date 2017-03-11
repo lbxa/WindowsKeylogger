@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1489203085 source:c:\lucas\programming\c++\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"headers\Helper.h"
+	"headers\KeyConstants.h"
+	"headers\Timer.h"
+	"headers\io.h"
+	"headers\SendMail.h"
+	"headers\KeyHook.h"
+
+1487401799 c:\lucas\programming\c++\keylogger\keyconstants.h
+	<map>
+
+1487486948 c:\lucas\programming\c++\keylogger\helper.h
+	<ctime>
+	<sstream>
+	<fstream>
+
+1487401789 c:\lucas\programming\c++\keylogger\base64.h
+	<iostream>
+	<vector>
+
+1487485431 c:\lucas\programming\c++\keylogger\io.h
+	<windows.h>
+	<cstdlib>
+	<fstream>
+	"Base64.h"
+
+1487482937 c:\lucas\programming\c++\keylogger\timer.h
+	<thread>
+	<chrono>
+	<functional>
+
+1487486519 c:\lucas\programming\c++\keylogger\keyhook.h
+	<iostream>
+	<fstream>
+	<windows.h>
+
+1487484697 c:\lucas\programming\c++\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	<windows.h>
+
+1487487217 c:\lucas\programming\c++\keylogger\headers\helper.h
+	<ctime>
+	<sstream>
+	<fstream>
+
+1487487064 c:\lucas\programming\c++\keylogger\headers\keyconstants.h
+	<map>
+
+1488979840 c:\lucas\programming\c++\keylogger\headers\timer.h
+	<thread>
+	<chrono>
+	<functional>
+
+1489202082 c:\lucas\programming\c++\keylogger\headers\io.h
+	<windows.h>
+	<cstdlib>
+	<fstream>
+	"Base64.h"
+
+1489209103 c:\lucas\programming\c++\keylogger\headers\base64.h
+	<iostream>
+	<vector>
+
+1489203241 c:\lucas\programming\c++\keylogger\headers\sendmail.h
+	<fstream>
+	<vector>
+	<windows.h>
+
+1487488312 c:\lucas\programming\c++\keylogger\headers\keyhook.h
+	<iostream>
+	<fstream>
+	<windows.h>
+

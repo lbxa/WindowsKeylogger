@@ -1,0 +1,48 @@
+[11.03.2017 13:24:39]
+Hook Started... Timer Started
+
+[11.03.2017 13:25:13]
+Mail was not sent! Error code: 3
+
+[11.03.2017 13:25:13]
+<from SendMail> Return Code: 8810376
+
+[11.03.2017 13:25:48]
+Mail was not sent! Error code: 3
+
+[11.03.2017 13:26:51]
+Mail was not sent! Error code: 3
+
+[11.03.2017 13:27:24]
+Mail was not sent! Error code: 3
+
+[11.03.2017 13:27:57]
+Mail was not sent! Error code: 3
+
+[11.03.2017 13:28:30]
+Mail was not sent! Error code: 3
+
+[11.03.2017 13:29:03]
+Mail was not sent! Error code: 3
+
+[11.03.2017 13:30:36]
+Mail was not sent! Error code: 3
+
+[11.03.2017 13:31:09]
+Mail was not sent! Error code: 3
+
+[11.03.2017 13:31:46]
+Mail was not sent! Error code: 3
+
+[11.03.2017 13:32:19]
+Hook Started... Timer Started
+
+[11.03.2017 13:33:54]
+Mail was not sent! Error code: 3
+
+[11.03.2017 13:33:54]
+<from SendMail> Return Code: 16019336
+
+[11.03.2017 13:34:29]
+Mail was not sent! Error code: 3
+
